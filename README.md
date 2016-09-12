@@ -1,0 +1,2 @@
+# scrapy
+Learning scrapy framework
